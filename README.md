@@ -116,6 +116,9 @@ Open Questions
 Exploring these questions may define the next generation of real-world AI architectures.
 
 ⸻
+Practical Node Implementation
+
+Where structured human execution nodes can integrate into agent architectures.
 
 Intent
 
